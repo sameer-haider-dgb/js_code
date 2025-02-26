@@ -7,11 +7,15 @@ accountCity = "Bhopal" // without variable use here
 let accountState
 
 console.log(accountId);
-
+console.table([accountId, accountEmail, accountPassword, accountCity])
 // accountId=569874
 // console.log(accountId);  //bcz use const 
 
-console.table([accountId, accountEmail, accountPassword, accountCity])
+// try to change values
+accountEmail = "arman@google.com"
+accountPassword = "99999"
+accountCity = "Bengalore"
+
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
 
 
