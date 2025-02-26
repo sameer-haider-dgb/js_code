@@ -4,7 +4,7 @@ var accountPassword = "125478"
 
 accountCity = "Bhopal" // without variable use here
 
-let accountState
+let accountState    // nothing define any value give undefined
 
 console.log(accountId);
 console.table([accountId, accountEmail, accountPassword, accountCity])
