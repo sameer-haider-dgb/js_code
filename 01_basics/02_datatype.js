@@ -6,7 +6,7 @@ let obj= {
     firstName : "Abdul",
     lastName : "Razzaque"
 }
-let x = null
+let x = null    //null was represented as a reference pointing to a non-existent or "empty" object in memory.
 let y
 
 let sym = Symbol('Defination')
