@@ -8,7 +8,7 @@ console.log("===================================");
 
 // conversion
 let stringInNmber = Number(no2 )    //Number is Conversion of data type
-console.log(typeof no2);
+console.log(typeof stringInNmber);
 
 console.log(stringInNmber);
 
