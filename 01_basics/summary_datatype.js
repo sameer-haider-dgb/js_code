@@ -35,3 +35,8 @@ console.log(heros);
 console.log(myObj);
 console.log(myFunction);
 
+console.log(typeof heros);
+console.log(typeof myObj);
+console.log(typeof myFunction);
+
+
