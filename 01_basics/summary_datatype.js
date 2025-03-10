@@ -1,4 +1,4 @@
-// Primative
+// Primative    means give copy values
 // 7 types : String, Number, Boolean, null, undefined, Symbol, BigInt
 
 let name = "Sameer"
@@ -18,7 +18,7 @@ const anotherId = Symbol('111')
 const bigNumber = 56655663666633325n        // n represent bigInt
 // console.log(bigNumber);
 
-// referance DT or NonPrimative DT
+// referance DT or NonPrimative DT  means referene 
 // Array, Functions, Object, dates
 
 const heros = ["IronMan", "CaptainAmerica","hulk"]
