@@ -1,8 +1,9 @@
 const myArr = [0,1,2,3,4,5]
-const newArr = myArr.join()
 console.log(myArr);
-console.log(newArr);
 console.log(typeof myArr);
+
+const newArr = myArr.join() // join method convert array into string
+console.log(newArr);
 console.log(typeof newArr);
 
 
