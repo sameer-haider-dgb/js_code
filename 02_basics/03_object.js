@@ -1,3 +1,19 @@
+// JavaScript Objects are Mutable
+// Objects are mutable: They are addressed by reference, not by value
+//Create an Object
+                    // const person = {
+                    //     firstName:"John",
+                    //     lastName:"Doe",
+                    //     age:50, eyeColor:"blue"
+                    //   }
+                    
+                    //   // Try to create a copy
+                    //   const x = person;
+                    
+                    //   // This will change age in person:
+                    //   x.age = 10;
+//-------------------------------------------------------------------------------------------------------//
+
 // i)   Object Laterals
     // const  obj = {}
     const sym = Symbol("Key1")      // Symbol 
@@ -42,6 +58,8 @@
         }
         // console.log(obj.greeting);           // output   [Function (anonymous)]
         console.log(obj.greeting());            // output   Hello Rahul
+
+        
         
                        
         

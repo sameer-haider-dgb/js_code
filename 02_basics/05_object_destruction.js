@@ -20,13 +20,13 @@
         // const {price, courseInstructor, city = "Bengaluru"} = course; 
         // console.log(city);
 
-// Object Property Alias means RE_NAME Key by :
+// Object Property Alias means RE_NAME Key by using     :
         // const {price : coursePrice} = course; 
         // console.log(coursePrice);
 
 // String Destructuring means give text single value
         // const [a1,a2,a3,a4,a5] = coursename; // here use KEY_NAME Not Object
-        // console.log(a5);                     // output s
+        // console.log(a5);                     // output     s
         
         
 
