@@ -5,8 +5,8 @@
         age: 50,
         eyecolor: "blue"
       };
-
       // console.log(person.age, person["eyecolor"]);
+
 //Adding New Properties
       person.country = "England"
       // console.log(person.country);
