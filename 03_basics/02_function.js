@@ -36,9 +36,9 @@
         )
 
 // v)    Array in function
-        function returnArrayValue(anyArrayIndex){
-            return  console.log(anyArrayIndex[2])
+        function useReturnArrayValue(anyArrayIndex){
+            return  console.log(anyArrayIndex[2])                           // Output           Sam
         }
-        returnArrayValue( myNewArray = [200, 522, "Sam", 899, false]    )
+        useReturnArrayValue( myNewArray = [200, 522, "Sam", 899, false]    )   
 
         
