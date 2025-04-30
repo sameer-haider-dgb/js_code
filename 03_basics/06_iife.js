@@ -1,6 +1,6 @@
 /* 
         IIFE stand for Immediately Invoked Function Expressions
-        Use bcz global scope make pollution / problem on entire code due to declare or define values, use to make remove this type of issue  
+        Use bcz global variable make Namespace pollution / problem on entire code due to declare or define values, use to make remove this type of issue  
         also use for immediate function execution
   */
 
