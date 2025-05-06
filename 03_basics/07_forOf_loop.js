@@ -36,11 +36,10 @@
             // console.log(k);               // Output = IN    FR  EN      
         }        
 
-        for (const [k, v] of myMap) {
+        for (const [k, v] of myMap) {   // for value use [k, v] both
             // console.log(v);                 // Output =     India   France  England    
         }
 
         for (const [key, value] of myMap) {
             console.log(`Country Name with Symbols ${key} :- ${value}`)             // Output comes in Normal form
         }
-
